@@ -1,0 +1,6 @@
+$selector: "article";
+
+$selector: "foo";
+    p.#{$selector} {
+      #{$attr}-color: #f00;
+    }

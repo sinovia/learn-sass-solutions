@@ -1,0 +1,6 @@
+button {
+       color: black;
+       a {
+         &:hover { color: red; }
+       }
+     }
